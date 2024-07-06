@@ -140,7 +140,7 @@ body{
        
 }
 
-@media (max-width: 375px){
+@media (max-width: 498px){
     .presentacion__enlaces__link{
         width: 80%;
     }
