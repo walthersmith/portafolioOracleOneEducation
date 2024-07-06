@@ -137,5 +137,11 @@ body{
     .presentacion__contenido{
         width: auto;
     }
-    
+       
+}
+
+@media (max-width: 375px){
+    .presentacion__enlaces__link{
+        width: 80%;
+    }
 }
